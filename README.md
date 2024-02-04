@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=josemarques&color=006bed)
 
 ## 💬 Olá, meu nome é José Ivanildo!
 
